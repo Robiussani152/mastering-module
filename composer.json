@@ -1,0 +1,24 @@
+{
+    "name": "robiussani152/mastering-module",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Robius Sani",
+            "email": "sani15-257@diu.edu.bd"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Mastering\\": ""
+        }
+    }
+}

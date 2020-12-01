@@ -1,0 +1,13 @@
+{
+    "name": "Mastering",
+    "alias": "mastering",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Mastering\\Providers\\MasteringServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
